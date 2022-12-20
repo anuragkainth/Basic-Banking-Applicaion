@@ -1,7 +1,3 @@
+# BASIC BANKING APP
 
-Name: Anurag Kainth 
-
-THE SPARKS FOUNDATION
-
-TASK #2 BASIC BANKING APP
-
+Tech Stack used: Flutter SDK, Android studio, Dart language
